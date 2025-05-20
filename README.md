@@ -4,6 +4,12 @@
 
 The Quantitative Trading Platform is a Python-based application designed for developing, testing, and simulating quantitative trading strategies. It aims to provide a flexible framework for fetching market data, analyzing financial news, and combining traditional trading algorithms with insights from Large Language Models (LLMs). While currently in a developmental stage with mock components for LLM integration and a basic UI, the long-term vision includes real-time data processing and live trading capabilities.
 
+## Documentation in Other Languages
+
+*   **中文 (Chinese)**:
+    *   [项目概览 (README_zh.md)](./README_zh.md)
+    *   [使用指南 (USAGE_zh.md)](./USAGE_zh.md)
+
 ## Current Features
 
 *   **Data Acquisition**:
